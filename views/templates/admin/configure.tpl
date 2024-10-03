@@ -26,23 +26,14 @@
 <div class="panel">
 	<h3><i class="icon icon-credit-card"></i> {l s='Assign second customer group' mod='assigncustomergroup'}</h3>
 	<p>
-		<strong>{l s='Here is my new generic module!' mod='assigncustomergroup'}</strong><br />
-		{l s='Thanks to PrestaShop, now I have a great module.' mod='assigncustomergroup'}<br />
-		{l s='I can configure it using the following configuration form.' mod='assigncustomergroup'}
-	</p>
-	<br />
-	<p>
-		{l s='This module will boost your sales!' mod='assigncustomergroup'}
-	</p>
-</div>
+	<h5>
+		Contact for customizations
+	</h5>
 
-<div class="panel">
-	<h3><i class="icon icon-tags"></i> {l s='Documentation' mod='assigncustomergroup'}</h3>
-	<p>
-		&raquo; {l s='You can get a PDF documentation to configure this module' mod='assigncustomergroup'} :
-		<ul>
-			<li><a href="#" target="_blank">{l s='English' mod='assigncustomergroup'}</a></li>
-			<li><a href="#" target="_blank">{l s='French' mod='assigncustomergroup'}</a></li>
-		</ul>
-	</p>
+	<a href="https://www.fiverr.com/shoaibktk/"> Link to my services on FIVERR </a>
+	<br>
+	<strong>{l s='Developed by iamshoaibktk@gmail.com' mod='addnotepdf'}</strong><br />
+	<strong>{l s='Whatsapp +923459016286' mod='addnotepdf'}</strong><br />
+
+</p>
 </div>
