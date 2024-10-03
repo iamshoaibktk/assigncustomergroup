@@ -217,7 +217,7 @@ class Assigncustomergroup extends Module
         // $this->context->controller->addCSS($this->_path.'/views/css/front.css');
     }
 
-    public function hookActionCustomerAccountAdd()
+    public function hookActionCustomerAccountAdd($params)
     {
 
         $customer = $params['newCustomer'];
