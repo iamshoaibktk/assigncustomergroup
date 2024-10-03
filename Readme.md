@@ -1,0 +1,1 @@
+# Assign second customer group
